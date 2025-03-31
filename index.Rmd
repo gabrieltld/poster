@@ -1,0 +1,26 @@
+---
+title: 
+output: html_document
+date: 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## References:
+
+
+Hansen, B. C., & Essock, E. A. (2004). A horizontal bias in human visual processing of orientation and its correspondence to the structural components of natural scenes. Journal of Vision, 4(12), 5. https://doi.org/10.1167/4.12.5
+
+Hansen, B. C., & Essock, E. A. (2006). Anisotropic local contrast normalization: The role of stimulus orientation and spatial frequency bandwidths in the oblique and horizontal effect perceptual anisotropies. Vision Research, 46(26), 4398–4415. https://doi.org/10.1016/j.visres.2006.07.016
+
+Harrison, W. J., Bays, P. M., & Rideaux, R. (2023). Neural tuning instantiates prior expectations in the human visual system. Nature Communications, 14(1), 5320. https://doi.org/10.1038/s41467-023-41027-w
+
+Li, B., Peterson, M. R., & Freeman, R. D. (2003). Oblique Effect: A Neural Basis in the Visual Cortex. Journal of Neurophysiology, 90(1), 204–217. https://doi.org/10.1152/jn.00954.2002
+
+Mikellidou, K., Cicchini, G. M., Thompson, P. G., & Burr, D. C. (2015). The oblique effect is both allocentric and egocentric. Journal of Vision, 15(8), 24. https://doi.org/10.1167/15.8.24
+
+The “Horizontal Effect”: A perceptual anisotropy in visual processing of naturalistic broadband stimuli. (n.d.). ResearchGate. Retrieved 31 March 2025, from https://www.researchgate.net/publication/230603665_The_Horizontal_Effect_A_perceptual_anisotropy_in_visual_processing_of_naturalistic_broadband_stimuli
+
